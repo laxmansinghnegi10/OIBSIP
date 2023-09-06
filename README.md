@@ -1,6 +1,6 @@
 # OIBSIP
 
-# Project Title: Online Reservation Management System with User Authentication
+# Online Reservation Management System with User Authentication
 
 Description: This project is a computer program that allows users to manage reservations for events or services. It includes a secure user authentication system to ensure authorized access. Users can create reservations, view existing ones, and cancel reservations as needed. The system keeps track of reservation details such as names, dates, and the number of guests. It's a useful tool for businesses or organizations that need to handle reservations while maintaining user privacy and security.
 
